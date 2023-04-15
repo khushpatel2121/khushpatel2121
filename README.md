@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Khush Patel</h1>
-<h3 align="center">I am currently a web-developer</h3>
+<h3 align="center">I am currently a web-developer and learning python</h3>
 
 - 💬 Ask me about **react , javascript , node.js**
 
