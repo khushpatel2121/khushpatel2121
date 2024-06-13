@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Khush Patel</h1>
 <h3 align="center">I am constantly trying to learn new things </h3>
 
-- 💬 Ask me about **react , javascript , node.js**
+- 💬 Ask me about **Machine learning,Data Science,Neural Networks,Reactjs,Python,javascript,Nodejs,**
 
 - 📫 How to reach me **khushpatel2121@gmail.com**
 
